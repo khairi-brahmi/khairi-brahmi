@@ -13,7 +13,7 @@
 A **Software Engineering Student** 🚀 at faculty of sciences of Tunis, Tunisia.
 ## Contact me on:
 
-<b>  <img alt="Khairi's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" /> : 44334433</b>
+<b>  <img alt="Khairi's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />Khairibrahmi00@gmail.com</b>
   <br>
 <a href="https://www.linkedin.com/in/khairi-brahmi/">
   <img align="left" alt="Khairi's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
