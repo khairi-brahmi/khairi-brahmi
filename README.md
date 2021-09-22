@@ -1,14 +1,17 @@
 <h3 title="hehehe"> Hey 👋, I'm Khairi!</h3>
 
-<a href="https://www.linkedin.com/in/zamranxd/">
-  <img align="left" alt="Zamran's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+A **Software Engineering Student** 🚀 at faculty of sciences of Tunis, Tunisia.
+
+<a href="https://www.linkedin.com/in/khairi-brahmi/">
+  <img align="left" alt="Khairi's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/zamranxd/">
-  <img align="left" alt="Zamran's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://github.com/khairi-brahmi">
+  <img align="left" alt="Khairi's Github" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
 </a>
-<a href="https://www.facebook.com/ZamranxD">
-  <img align="left" alt="Zamran's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://www.facebook.com/khairibrahmi00/">
+  <img align="left" alt="Khairi's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+<br>
 
 ## 🛠️ My Skills
 
