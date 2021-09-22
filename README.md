@@ -128,14 +128,40 @@
     <a href=""><img src ="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white"></a>
  </p>
 
+### 👉 Machine learning using Python Libraries
+<p align="left">
+  &emsp;
+    <a href=""><img alt="sklearn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white"></a>
+  &emsp;
+    <a href=""><img alt="pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white"></a>  
+     &emsp;
+    <a href=""><img alt="nltk" src="https://img.shields.io/badge/NLTK-Python-blue"></a>  
+      &emsp;
+    <a href=""><img alt="numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white"></a>  
+      &emsp;
+    <a href=""><img alt="matplot" src="https://img.shields.io/badge/Matplotlib-Python-red"></a>  
+      &emsp;
+    <a href=""><img alt="gnsim" src="https://img.shields.io/badge/Gensim-Python-blue"></a>  
+    
+ </p>
 
+### 👉 Web Scraping using Python Libraries
+<p align="left">
+  &emsp;
+    <a href=""><img alt="bsoup" src="https://img.shields.io/badge/Beautiful%20Soup-Python-red"></a>
+  &emsp;
+    <a href=""><img alt="selinium" src="https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=white"></a>  
+      &emsp;
+    <a href=""><img alt="rqst" src="https://img.shields.io/badge/Requests-Python-blue"></a>  
+
+ </p>
 
 ### 👉 BI tools
 <p align="left">
   &emsp;
     <a href=""><img alt="tableau" src="https://img.shields.io/badge/Tableau-Software-blue"></a>
   &emsp;
-    <a href=""><img alt="talend" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
+    <a href=""><img alt="talend" src="https://img.shields.io/badge/Talend-OS-orange"></a>  
  </p>
 
 
