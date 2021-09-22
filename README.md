@@ -13,8 +13,8 @@
 A **Software Engineering Student** 🚀 at faculty of sciences of Tunis, Tunisia.
 ## Contact me on:
 
-<a href= "http://khairi-brahmi.azurewebsites.net/"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
-  <br>
+<a href= "http://khairi-brahmi.azurewebsites.net/"><img align="left" src="https://img.icons8.com/material-outlined/27/000000/geography.png" width="24px" /></a>
+
 <a href="https://www.linkedin.com/in/khairi-brahmi/">
   <img align="left" alt="Khairi's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
