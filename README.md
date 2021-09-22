@@ -45,7 +45,7 @@
   </a>
    &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src=" https://img.shields.io/badge/-ReactJs-61DAFB?logo=react"/>
+    <img alt="Bootstrap" src=" https://img.shields.io/badge/-ReactJs-61DAFB.svg?logo=react"/>
   </a>
  
 </p>
