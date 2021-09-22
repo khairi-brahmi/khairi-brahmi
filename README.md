@@ -14,9 +14,11 @@ A **Software Engineering Student** 🚀 at faculty of sciences of Tunis, Tunisia
 
 
 <br>
-
+<div style="align:center">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khairi-brahmi&theme=dark&hide_border=true"/>
-<br>
+</div>
+
+
 
 ## Contact me on:
 <a href="https://www.linkedin.com/in/khairi-brahmi/">
@@ -28,7 +30,7 @@ A **Software Engineering Student** 🚀 at faculty of sciences of Tunis, Tunisia
 <a href="https://www.facebook.com/khairibrahmi00/">
   <img align="left" alt="Khairi's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-
+<br>
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
