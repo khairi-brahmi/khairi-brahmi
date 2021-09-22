@@ -11,17 +11,23 @@
 <h3 title="hehehe"> 👋 I'm Khairi!</h3>
 
 A **Software Engineering Student** 🚀 at faculty of sciences of Tunis, Tunisia.
-## Contact me on:
+### Let's Connect :coffee:
+<p align="center">
+	<a href="https://github.com/khairi-brahmi"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/khairi-brahmi/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="http://khairi-brahmi.azurewebsites.net/"><img src="https://img.icons8.com/clouds/100/000000/domain.png"/></a>
+	<a href="https://www.facebook.com/khairibrahmi00/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"/></a>
+</p>
 
 <a href= "http://khairi-brahmi.azurewebsites.net/"><img align="left" src="https://img.icons8.com/material-outlined/27/000000/geography.png" width="24px" /></a>
 
-<a href="https://www.linkedin.com/in/khairi-brahmi/">
+<a href="">
   <img align="left" alt="Khairi's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/khairi-brahmi">
+<a href="">
   <img align="left" alt="Khairi's Github" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
 </a>
-<a href="https://www.facebook.com/khairibrahmi00/">
+<a href="">
   <img align="left" alt="Khairi's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
@@ -35,8 +41,8 @@ A **Software Engineering Student** 🚀 at faculty of sciences of Tunis, Tunisia
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=khairi-brahmi"/>
   </p>
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khairi-brahmi&margin-w=5" alt="khairi-brahmi" /></a> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://profile-counter.glitch.me/khairi-brahmi/count.svg" alt="khairi-brahmi" /></a> </p>
+<p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=khairi-brahmi&margin-w=5" alt="khairi-brahmi" /></a> </p>
+
 
 
 ## 🛠️ My Skills
