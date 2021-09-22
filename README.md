@@ -23,8 +23,6 @@ A **Software Engineering Student** 🚀 at faculty of sciences of Tunis, Tunisia
 </a>
 <br>
 
-##  Stats
-<br>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khairi-brahmi&theme=dark&hide_border=true"/>
 <br>
 
