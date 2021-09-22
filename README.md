@@ -12,19 +12,19 @@
 
 A **Software Engineering Student** 🚀 at faculty of sciences of Tunis, Tunisia.
 ## Contact me on:
-<p align="center">
-<a href= "http://khairi-brahmi.azurewebsites.net/"><img  src="https://img.icons8.com/material-outlined/27/000000/geography.png" width="24px" /></a>
 
-<a style="padding:40px" href="https://www.linkedin.com/in/khairi-brahmi/">
-  <img  alt="Khairi's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href= "http://khairi-brahmi.azurewebsites.net/"><img align="left" src="https://img.icons8.com/material-outlined/27/000000/geography.png" width="24px" /></a>
+
+<a href="https://www.linkedin.com/in/khairi-brahmi/">
+  <img align="left" alt="Khairi's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a style="padding:40px" href="https://github.com/khairi-brahmi">
-  <img  alt="Khairi's Github" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
+<a href="https://github.com/khairi-brahmi">
+  <img align="left" alt="Khairi's Github" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
 </a>
 <a href="https://www.facebook.com/khairibrahmi00/">
-  <img  alt="Khairi's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Khairi's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-</p>
+
 <br>
 
  ### My Github Stats
