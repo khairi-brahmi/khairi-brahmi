@@ -22,6 +22,9 @@ A **Software Engineering Student** 🚀 at faculty of sciences of Tunis, Tunisia
   <img align="left" alt="Khairi's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br>
+
+##  Stats
+<br>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khairi-brahmi&theme=dark&hide_border=true"/>
 <br>
 
