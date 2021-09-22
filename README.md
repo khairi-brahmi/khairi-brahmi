@@ -33,17 +33,10 @@
 <p align="left"> 
  &emsp; 
   <a  target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+   <img alt="HTML" src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB">
   </a>  
    &emsp; 
-  <a  target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>  
-   &emsp; 
-  <a  target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
-  </a>  
-  &emsp; 
+ 
   <a  target="_blank"> 
    <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
   </a>   
@@ -61,8 +54,7 @@
   </a>
     &emsp;
   <a  target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white
-"/>
+    <img alt="Bootstrap" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
   </a>
 </p>
 
