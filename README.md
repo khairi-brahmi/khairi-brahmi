@@ -22,7 +22,7 @@ A **Software Engineering Student** 🚀 at faculty of sciences of Tunis, Tunisia
   <img align="left" alt="Khairi's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br>
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=khairi-brahmi&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/khairi-brahmi)
+<img src="https://github-profile-trophy.vercel.app/?username=khairi-brahmi&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" alt="Zamran's GitHub Stats">
 <br>
 
 ## 🛠️ My Skills
