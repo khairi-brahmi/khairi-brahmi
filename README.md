@@ -32,9 +32,7 @@ A **final year Software Engineering Student** 🚀 at faculty of sciences of Tun
 <br>
 <p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=khairi-brahmi&margin-w=5" alt="khairi-brahmi" /></a> </p>
 
-<a href="https://github.com/khairi-brahmi">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khairi-brahmi&hide=java,jupyter%20notebook&theme=dark&hide_langs_below=1" height="220px"/>
-  </a>
+
 
 ## 🛠️ My Skills
 
