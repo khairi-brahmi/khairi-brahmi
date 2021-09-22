@@ -128,11 +128,24 @@
     <a href=""><img src ="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white"></a>
  </p>
 
+
+
+### 👉 BI tools
+<p align="left">
+  &emsp;
+    <a href=""><img alt="tableau" src="https://img.shields.io/badge/Tableau-Software-blue"></a>
+  &emsp;
+    <a href=""><img alt="talend" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
+ </p>
+
+
  ### 👉 Software & Tools
  
 <p>
 
   &emsp;
+    <a href="#"><img alt="docker" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white"></a>
+      &emsp;
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
       &emsp;
     <a href="#"><img alt="Codesandbox" src="https://img.shields.io/badge/Codesandbox-040404?logo=codesandbox&logoColor=DBDBDB"></a>
@@ -149,6 +162,10 @@
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a>
+      &emsp;
+    <a href="#"><img alt="jira" src="https://img.shields.io/badge/Jira-0052CC?logo=Jira&logoColor=white"></a>
+      &emsp;
+    <a href="#"><img alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></a>
 </p>
 
 <br/>
