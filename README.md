@@ -63,6 +63,33 @@
   </a>
 </p>
 
+
+### 👉 Backend Development
+<p align="left"> 
+ &emsp; 
+  <a  target="_blank"> 
+   <img alt="django" src="https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white">
+  </a>  
+   &emsp; 
+ 
+  <a  target="_blank"> 
+   <img alt="flask" src="https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white">
+  </a>   
+  &emsp;
+  <a  target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/FastAPI-005571?&logo=fastapi">
+  </a> 
+   &emsp;
+  <a  target="_blank"> 
+    <img alt="Bootstrap" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white"/>
+  </a>
+   &emsp;
+  <a  target="_blank"> 
+    <img alt="Bootstrap" src="https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=white"/>
+  </a>
+
+</p>
+
 ### 👉 Mobile Frameworks 
 <p align="left">
   &emsp;
@@ -76,11 +103,14 @@
  </p>
 
 ### 👉 Databases 
+
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
   &emsp;
     <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
+      &emsp;
+    <a href=""><img alt="mongo" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
 
  </p>
 
