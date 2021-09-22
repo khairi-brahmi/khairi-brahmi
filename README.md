@@ -15,8 +15,8 @@ A **Software Engineering Student** 🚀 at faculty of sciences of Tunis, Tunisia
 <p align="center">
 	<a href="https://github.com/khairi-brahmi"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/khairi-brahmi/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="http://khairi-brahmi.azurewebsites.net/"><img src="https://img.icons8.com/fluency/48/000000/domain.png"/></a>
 	<a href="https://www.facebook.com/khairibrahmi00/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"/></a>
+    <a href="http://khairi-brahmi.azurewebsites.net/"><img src="https://img.icons8.com/bubbles/50/000000/web.png"/></a>
 </p>
 
 <a href= "http://khairi-brahmi.azurewebsites.net/"><img align="left" src="https://img.icons8.com/material-outlined/27/000000/geography.png" width="24px" /></a>
