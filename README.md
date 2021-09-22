@@ -12,6 +12,8 @@ A **Software Engineering Student** 🚀 at faculty of sciences of Tunis, Tunisia
   <img align="left" alt="Khairi's Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <br>
+<img src="https://github-readme-stats.vercel.app/api?username=khairi-brahmi&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Zamran's GitHub Stats">
+<br>
 
 ## 🛠️ My Skills
 
