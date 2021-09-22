@@ -31,7 +31,7 @@ A **Software Engineering Student** 🚀 at faculty of sciences of Tunis, Tunisia
 
 <a href="https://github.com/khairi-brahmi"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=khairi-brahmi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <Br>
-<a href="https://github.com/khairi-brahmi">
+<a align="center" href="https://github.com/khairi-brahmi">
     <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khairi-brahmi"/>
   </a>
 <br>
