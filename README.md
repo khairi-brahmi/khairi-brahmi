@@ -10,7 +10,7 @@
 
 <h3 title="hehehe"> 👋 I'm Khairi!</h3>
 
-A **Software Engineering Student** 🚀 at faculty of sciences of Tunis, Tunisia.
+A **final year Software Engineering Student** 🚀 at faculty of sciences of Tunis - University of Tunis El Manar, Tunisia.
 ### Let's Connect :coffee:
 <p align="center">
 	<a href="https://github.com/khairi-brahmi"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
@@ -32,7 +32,9 @@ A **Software Engineering Student** 🚀 at faculty of sciences of Tunis, Tunisia
 <br>
 <p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=khairi-brahmi&margin-w=5" alt="khairi-brahmi" /></a> </p>
 
-
+<a href="https://github.com/khairi-brahmi">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khairi-brahmi&hide=ASP.NET,jupyter%20notebook&theme=dark&hide_langs_below=1" height="220px"/>
+  </a>
 
 ## 🛠️ My Skills
 
