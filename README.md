@@ -47,7 +47,7 @@
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src=" https://img.shields.io/badge/-ReactJs-61DAFB.svg?logo=react"/>
   </a>
- 
+ ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 </p>
 
 ### 👉 Databases & Cloud Hosting
