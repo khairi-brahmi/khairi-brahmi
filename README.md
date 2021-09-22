@@ -45,7 +45,7 @@
   </a>
    &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
+    <img alt="Bootstrap" src="https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white"/>
   </a>
 
 </p>
