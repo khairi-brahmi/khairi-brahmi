@@ -10,7 +10,7 @@
 
 <h3 title="hehehe"> 👋 I'm Khairi!</h3>
 
-A ** Software Engineer | Python Developer ** 🚀 graduated from the faculty of sciences of Tunis - University of Tunis El Manar, Tunisia.
+A ** Software Engineer and Python Developer ** 🚀 graduated from the faculty of sciences of Tunis - University of Tunis El Manar, Tunisia.
 ### Let's Connect :coffee:
 <p align="center">
 	<a href="https://github.com/khairi-brahmi"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
