@@ -16,7 +16,7 @@ A ** Software Engineer and Python Developer ** 🚀 graduated from the faculty o
 	<a href="https://github.com/khairi-brahmi"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/khairi-brahmi/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/khairibrahmi00/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"/></a>
-    <a href="https://khairi-brahmi.netlify.app/"><img src="https://img.icons8.com/bubbles/50/000000/web.png"/></a>
+    <a href="https://khairi-brahmi.com/"><img src="https://img.icons8.com/bubbles/50/000000/web.png"/></a>
 </p>
 
 
